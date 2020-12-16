@@ -1,0 +1,29 @@
+button{
+    border-radius: 20px;
+    border-style: solid;
+    border-color: mediumorchid;
+    border-width: 5px;
+    background: deepskyblue;
+    height: 50px;
+    width: 150px;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
+button:hover{
+    cursor: pointer;
+    background: rgb(8, 87, 206);
+}
+
+img{
+    border-radius: 50px;
+    border-style: solid;
+    border-color: mediumorchid;
+    border-width: 5px;
+}
+
+i{
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+}
